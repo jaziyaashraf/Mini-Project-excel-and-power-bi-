@@ -12,7 +12,7 @@ The project explores three major areas:
 2. Screen Time and Sleep Analysis
 3. Academic Performance
 
-The final report consists of three interactive dashboard pages, allowing users to explore student information and compare different indicators through charts, KPI cards, and slicers.
+The final report consists of three interactive dashboard pages, allowing users to explore student information and compare different indicators through KPI cards, charts, and slicers.
 
 ## 2. Project Objectives
 
@@ -77,23 +77,21 @@ The cleaning process included:
 - Checking and correcting data types.
 - Preparing the cleaned dataset for Power BI visualization.
 
-The prepared dataset was then used for dashboard development and analysis.
+After data preparation and cleaning, the dataset was used for further analysis and dashboard development.
 
 ## 5. Tools and Technologies Used
 
 ### Microsoft Excel
-Used for initial dataset review, data preparation, and working with the student dataset.
+Used for initial dataset review, data preparation, and handling the student dataset.
 
 ### Power Query
-Used for cleaning, transforming, and preparing the dataset.
-
-
+Used for cleaning, transforming, and preparing the dataset for analysis.
 
 ### Microsoft Power BI Desktop
 Used for developing interactive dashboards, creating visualizations, and presenting analytical findings.
 
 ### DAX (Data Analysis Expressions)
-Used for calculations and measures to display key performance indicators in Power BI, where applicable.
+Used for creating measures and calculating key performance indicators (KPIs) in Power BI.
 
 ## 6. Dashboard Development
 
@@ -196,7 +194,7 @@ Users can compare average CGPA across study years and chronotypes and explore ac
 | Academic Performance | Average Weekly Study Hours | 16.57 |
 | Academic Performance | Average Exercise Days | 3.67 |
 
-*Note: Values are displayed as shown in the dashboard. The part-time job member count should be updated with the actual value from the Power BI card. Units and exact measure definitions should be confirmed from the underlying calculations.*
+*Note: The part-time job member count should be updated with the actual value from the Power BI card. Units and exact measure definitions should be confirmed from the underlying calculations.*
 
 ## 8. Power BI Features and Visualizations
 
@@ -295,7 +293,7 @@ Student-Analytics-Dashboard/
 
 The **Student Analytics Dashboard** is an interactive data analytics project that brings together student demographics, screen-time habits, sleep patterns, and academic performance in a single report.
 
-The project involves preparing and cleaning student data using Excel and Power Query, followed by developing interactive visualizations using Microsoft Power BI.
+The project involves preparing and cleaning student data using Microsoft Excel and Power Query, followed by developing interactive visualizations using Microsoft Power BI.
 
 Through KPI cards, charts, slicers, and interactive filtering, the dashboard provides an organized way to explore student information and identify patterns across different student groups.
 
@@ -314,4 +312,4 @@ This project demonstrates practical skills in:
 
 **Domain:** Student Analytics and Education
 
-**Tools:** Microsoft Excel, Power Query, and Power BI
+**Tools Used:** Microsoft Excel, Power Query, and Microsoft Power BI
