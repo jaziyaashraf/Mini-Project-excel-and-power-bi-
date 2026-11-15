@@ -1,8 +1,8 @@
-# Student Analytics Dashboard | Excel & Power BI Mini Project
+# Screen Time, Sleep & Academic Performance Analysis | Excel & Power BI Mini Project
 
 ## 1. Project Overview
 
-The **Student Analytics Dashboard** is an interactive data analytics project developed using Microsoft Excel and Power BI. The project focuses on analyzing student demographics, screen-time habits, sleep patterns, and academic performance.
+The **Screen Time, Sleep & Academic Performance Analysis** is an interactive data analytics project developed using Microsoft Excel and Power BI. The project focuses on analyzing student demographics, screen-time habits, sleep patterns, and academic performance.
 
 The main objective is to transform raw student data into meaningful information through data preparation, data cleaning, analysis, and interactive visualizations.
 
@@ -306,7 +306,7 @@ This project demonstrates practical skills in:
 - Dashboard Development
 - Power BI Reporting
 
-**Project Title:** Student Analytics Dashboard
+**Project Title:** Screen Time, Sleep & Academic Performance Analysis
 
 **Project Type:** Data Analytics Mini Project
 
